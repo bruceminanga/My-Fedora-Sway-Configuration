@@ -1,11 +1,12 @@
 # My-Fedora-Sway-Configuration
 
 This is a configuration for sway window manager fanboys. Since window manager doesn't ship with everything under the hood, It requires her
-users to set up alot of staff manually. I have enabled the following functionalities on my window manager (Search for My configs in the file to view the codes for the functionalities)
-1. Increase and Decrease screen brightness.
+users to set up alot of staff manually. I have enabled the following functionalities on my window manager 
+1. Increase and Decrease screen brightness. 
 
 # How to use My sway config file
-Navigate to `~/.config/sway/config` and copy paste my file content to your config file. No need to worry, the defualt sway config are still availabe at /etc/sway/config
+1. Navigate to `~/.config/sway/config` and copy paste my file content to your config file. No need to worry, the defualt sway config are still availabe at /etc/sway/config
+2. Search for `My configs` statement in the file to have a look at the codes
 
 # Reasons to use window manager
 1. It helps one adopt the habbit of using keyboard and not relying on mouse.
