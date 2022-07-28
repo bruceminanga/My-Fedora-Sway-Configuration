@@ -4,7 +4,7 @@ This is a configuration for sway window manager fanboys. Since window manager do
 users to set up alot of staff manually. I have enabled the following functionalities on my window manager
 1. Increase and Decrease screen brightness.
 
-# How to use My sway config fileee
+# How to use My sway config file
 Navigate to `~/.config/sway/config` and copy paste my file content to your config file. No need to worry, the defualt sway config are still availabe at /etc/sway/config
 
 # Reasons to use window manager
